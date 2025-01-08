@@ -9,9 +9,11 @@
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">
+🔍 My academic and research pursuits revolve around algorithms, symbolic logic, and AI/ML. I'm currently exploring multimodal cognitive architectures through Bayesian networks in the ELBICA Lab, striving to bridge verbal and visual reasoning in bio-inspired systems.
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
+🌍 Beyond coding, I lead the Machine Learning Club, facilitating collaborative projects and presenting on ML concepts. I also enjoy learning foreign languages (fluent in Korean and English, proficient in Japanese) and using art to explore philosophical and cultural ideas.
+</p>
 ###
 
 <h2 align="left">I code with</h2>
