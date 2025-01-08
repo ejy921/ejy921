@@ -14,7 +14,6 @@
 
 🌍 Beyond coding, I lead the Machine Learning Club, facilitating collaborative projects and presenting on ML concepts. I also enjoy learning foreign languages (fluent in Korean and English, proficient in Japanese) and using art to explore philosophical and cultural ideas.
 </p>
-###
 
 <h2 align="left">I code with</h2>
 
