@@ -52,9 +52,9 @@
 </div>
 
 ###
-
+/*
 <img src="https://raw.githubusercontent.com/ejy921/ejy921/output/snake.svg" alt="Snake animation" />
-
+*/
 ###
 
 <div align="left">
