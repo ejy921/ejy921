@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jinny and I'm a programmer from Korea and Nepal.</p>
+<p align="left">My name is Jinny and I'm a junior Computer Science major at Grinnell College.</p>
 
 ###
 
