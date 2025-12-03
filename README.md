@@ -1,10 +1,7 @@
 
 
-<p align="left">My name is Jinny and I'm a senior Computer Science major at Grinnell College.</p>
-
-###
-
 <h2 align="left">About me</h2>
+<p align="left">Senior Computer Science major at Grinnell College.</p>
 
 <h2 align="left">I code with</h2>
 
